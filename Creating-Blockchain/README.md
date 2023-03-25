@@ -1,3 +1,4 @@
+# Creating Blockchain
 Creating a blockchain involves developing a decentralized digital ledger that can be used to record and verify transactions. A blockchain is a database that is distributed across a network of computers and contains a continuously growing list of records called blocks, which are linked and secured using cryptographic algorithms.
 
 To create a blockchain, the first step is to define the requirements for the blockchain, including its purpose, the types of transactions it will record, and the security features it will include. The next step is to design the architecture and protocols of the blockchain, which will determine how the network of computers will communicate and how transactions will be validated.
