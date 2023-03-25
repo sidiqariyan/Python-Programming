@@ -1,3 +1,4 @@
+# Pong Game
 Pong game is a classic arcade game that was first released in 1972 by Atari. It is one of the earliest video games and is considered to be a pioneer of the video game industry. The game is a simple two-player game that simulates table tennis, where players use paddles to hit a ball back and forth across a screen. The objective of the game is to score points by getting the ball past the opponent's paddle.
 
 In the original version of the game, the paddles are controlled by players using knobs or joysticks, and the ball bounces off the walls and the paddles. The game becomes more challenging as the ball speed increases, making it more difficult for players to keep up with the ball and hit it accurately.
