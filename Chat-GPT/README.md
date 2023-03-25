@@ -1,3 +1,4 @@
+## Chat-GPT
 ChatGPT is an AI-powered language model developed by OpenAI that is designed to engage in natural language conversations with users. It is trained on a massive amount of text data and uses machine learning algorithms to understand and generate human-like responses to user input.
 
 ChatGPT is designed to be a versatile conversational agent that can discuss a wide range of topics with users. It can answer questions, provide information, give advice, offer opinions, and even engage in small talk. Its responses are generated in real-time and can be customized to meet the needs of individual users.
