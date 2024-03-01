@@ -1,4 +1,4 @@
-# ChatGPT Program in Python 
+# ChatGPT Program in Python Programming
 
 import openai
 
