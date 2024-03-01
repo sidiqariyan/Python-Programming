@@ -1,3 +1,5 @@
+# ChatGPT Program in Python 
+
 import openai
 
 openai.api_key = "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"
